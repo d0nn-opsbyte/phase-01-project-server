@@ -16,7 +16,7 @@ This project provides tools for specific calculations, including fare estimation
 
    2.Open index.html in your web browser by double-clicking the file
 
-   3.Upon opening index.html, you will be presented with the main application interface. Select the desired calculator tool and input the necessary values to receive your results.
+   3.Upon opening index.html, you will be presented with the main application interface. Select the desired calculator tool and input the necessary values to receive your results.,
 
 ## Contributing
 
