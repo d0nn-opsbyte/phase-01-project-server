@@ -1,4 +1,4 @@
-import { create, router as _router, defaults } from "json-server"; // importing json-server library
+import { create, router as _router, defaults } from " http://localhost:3000/bookings"; // importing json-server library
 const server = create();
 const router = _router("db.json");
 const middlewares = defaults();
